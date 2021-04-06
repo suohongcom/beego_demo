@@ -26,7 +26,6 @@
 
     <table class="layui-table" lay-skin="row">
         <thead>
-            <tr>
                 <th>序号</th>
                 <th>姓名</th>
                 <th>金额</th>
@@ -58,6 +57,7 @@
 
     <div class="layui-box layui-laypage layui-laypage-default" id="layui-laypage-0">
     {{str2html .pagebar}}
+
     </div>
 
 

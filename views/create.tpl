@@ -42,6 +42,5 @@
         //刷新界面 所有元素
     
         form.render();
-    
     });
 </script>
